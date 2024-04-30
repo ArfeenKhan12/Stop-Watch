@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-color: #00203FFF;
+  }
+  
+  .stopwatch {
+    text-align: center;
+  }
+  
+  .display {
+    color: #ADEFD1FF;
+    margin-top: 175px;
+    font-size: 100px;
+  }
+  
+  .controls {
+    margin-top: 20px;
+    border-radius: 20px;
+
+  }
+  
